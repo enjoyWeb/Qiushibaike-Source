@@ -1,6 +1,6 @@
 # Qiushibaike-Source
 
-《[防糗事百科](http://community.apicloud.com/bbs/forum.php?mod=viewthread&tid=1036&extra=page%3D1)》
+《[仿糗事百科](http://community.apicloud.com/bbs/forum.php?mod=viewthread&tid=1036&extra=page%3D1)》
 
 作者：lalalalalala
 
